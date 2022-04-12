@@ -4,4 +4,13 @@
 .container, .content {
 width: 100%;
 height: 100%;
+float: left;
 }
+div { width: 50%; height: 50%; float: left; }
+
+.center {
+    line-height: 328.5px;
+    height: 328.5px;
+    text-align: center;
+  }
+
